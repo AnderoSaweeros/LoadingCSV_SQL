@@ -1,0 +1,77 @@
+2023-12-11 13:31:49,506 - ERROR - No such comm target registered: jupyter.widget.control
+2023-12-11 13:31:49,507 - WARNING - No such comm: c434e633-ffdb-499f-8168-8a98ba635414
+2023-12-11 13:31:56,611 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:31:56,611 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:31:56,615 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:31:56,615 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:31:56,616 - INFO - MySQL connection closed.
+2023-12-11 13:33:14,352 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:33:14,353 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:33:14,354 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:33:14,355 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:33:14,355 - INFO - MySQL connection closed.
+2023-12-11 13:49:43,625 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:49:43,626 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:49:43,627 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:49:43,627 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:49:43,628 - INFO - MySQL connection closed.
+2023-12-11 13:50:03,437 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:50:03,438 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:50:03,439 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:50:03,440 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:50:03,440 - INFO - MySQL connection closed.
+2023-12-11 13:53:57,147 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:53:57,147 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:53:57,148 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:53:57,149 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:53:57,149 - INFO - MySQL connection closed.
+2023-12-11 13:54:53,048 - INFO - Table 'Products' created or already exists.
+2023-12-11 13:54:53,049 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:54:53,049 - INFO - Table 'Sales' created or already exists.
+2023-12-11 13:54:53,050 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-11 13:54:53,050 - INFO - MySQL connection closed.
+2023-12-12 03:47:20,145 - INFO - Table 'Products' created or already exists.
+2023-12-12 03:47:20,146 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:47:20,147 - INFO - Table 'Sales' created or already exists.
+2023-12-12 03:47:20,148 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:47:20,148 - INFO - MySQL connection closed.
+2023-12-12 03:48:44,614 - INFO - Table 'Products' created or already exists.
+2023-12-12 03:48:44,614 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:48:44,615 - INFO - Table 'Sales' created or already exists.
+2023-12-12 03:48:44,615 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:48:44,615 - INFO - MySQL connection closed.
+2023-12-12 03:48:58,906 - INFO - Table 'Products' created or already exists.
+2023-12-12 03:48:58,907 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:48:58,908 - INFO - Table 'Sales' created or already exists.
+2023-12-12 03:48:58,908 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:48:58,909 - INFO - MySQL connection closed.
+2023-12-12 03:56:56,824 - INFO - Table 'Products' created or already exists.
+2023-12-12 03:56:56,824 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:56:56,825 - INFO - Table 'Sales' created or already exists.
+2023-12-12 03:56:56,825 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:56:56,826 - INFO - MySQL connection closed.
+2023-12-12 03:59:44,627 - INFO - Table 'Products' created or already exists.
+2023-12-12 03:59:44,628 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:59:44,628 - INFO - Table 'Sales' created or already exists.
+2023-12-12 03:59:44,629 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 03:59:44,629 - INFO - MySQL connection closed.
+2023-12-12 04:02:45,942 - INFO - Table 'Products' created or already exists.
+2023-12-12 04:02:45,942 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 04:02:45,944 - INFO - Table 'Sales' created or already exists.
+2023-12-12 04:02:45,944 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 04:02:45,944 - INFO - MySQL connection closed.
+2023-12-12 04:06:30,055 - INFO - Table 'Products' created or already exists.
+2023-12-12 04:06:30,056 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 04:06:30,056 - INFO - Table 'Sales' created or already exists.
+2023-12-12 04:06:30,057 - ERROR - Error loading CSV to MySQL: 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2023-12-12 04:06:30,057 - INFO - MySQL connection closed.
+2023-12-12 04:22:46,923 - INFO - Table 'Products' created or already exists.
+2023-12-12 04:22:46,924 - ERROR - Error loading CSV to MySQL: name 'cursor' is not defined
+2023-12-12 04:22:46,925 - INFO - Table 'Sales' created or already exists.
+2023-12-12 04:22:46,925 - ERROR - Error loading CSV to MySQL: name 'cursor' is not defined
+2023-12-12 04:22:46,925 - INFO - MySQL connection closed.
+2023-12-12 04:23:14,874 - INFO - Table 'Products' created or already exists.
+2023-12-12 04:23:14,875 - INFO - Data from 'Products.csv' loaded into 'Products'.
+2023-12-12 04:23:14,877 - INFO - Table 'Sales' created or already exists.
+2023-12-12 04:23:14,878 - INFO - Data from 'Sales.csv' loaded into 'Sales'.
+2023-12-12 04:23:14,879 - INFO - MySQL connection closed.

@@ -1,4 +1,8 @@
 {
-  "product_csv_path": "Product.csv",
+  "mysql_host": "localhost",
+  "mysql_user": "root",
+  "mysql_password": "root1234",
+  "mysql_database": "testdatabase",
+  "product_csv_path": "Products.csv",
   "sales_csv_path": "Sales.csv"
 }
