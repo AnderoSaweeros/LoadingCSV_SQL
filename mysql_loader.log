@@ -205,3 +205,35 @@
 2023-12-12 08:23:52,247 - INFO - Data from 'Sales.csv' loaded into 'Sales'.
 2023-12-12 08:23:52,247 - INFO - Data from 'Sales.csv' committed into 'Sales'.
 2023-12-12 08:23:52,250 - INFO - MySQL connection closed.
+2023-12-14 13:11:59,929 - INFO - Table 'Products' created or already exists.
+2023-12-14 13:11:59,929 - ERROR - Error loading CSV to MySQL: 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:11:59,930 - ERROR - Error loading CSV to MySQL: 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:11:59,930 - ERROR - Error executing given query : 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:13:08,865 - INFO - Table 'Products' created or already exists.
+2023-12-14 13:13:08,865 - ERROR - Error loading CSV to MySQL: 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:13:08,866 - ERROR - Error loading CSV to MySQL: 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:13:08,866 - ERROR - Error executing given query : 2014 (HY000): Commands out of sync; you can't run this command now
+2023-12-14 13:14:55,089 - ERROR - Error loading CSV to MySQL: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATE TABLE Products (Product VARCHAR(255), Category VARCHAR(255), Brand VARCHA' at line 1
+2023-12-14 13:14:55,089 - ERROR - Error loading CSV to MySQL: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATE TABLE Sales (Day VARCHAR(255), Product VARCHAR(255), Distributor VARCHAR(' at line 1
+2023-12-14 13:14:55,091 - ERROR - Error executing given query : 1146 (42S02): Table 'testdatabase.sales' doesn't exist
+2023-12-14 13:17:06,522 - ERROR - Error loading CSV to MySQL: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATE TABLE Products (Product VARCHAR(255), Category VARCHAR(255), Brand VARCHA' at line 1
+2023-12-14 13:17:06,522 - ERROR - Error loading CSV to MySQL: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATE TABLE Sales (Day VARCHAR(255), Product VARCHAR(255), Distributor VARCHAR(' at line 1
+2023-12-14 13:17:06,524 - ERROR - Error executing given query : 1146 (42S02): Table 'testdatabase.sales' doesn't exist
+2023-12-14 13:18:50,533 - ERROR - Error loading CSV to MySQL: 1050 (42S01): Table 'products' already exists
+2023-12-14 13:18:50,541 - INFO - Table 'Sales' created or already exists.
+2023-12-14 13:18:50,544 - INFO - Data from 'Sales.csv' loaded into 'Sales'.
+2023-12-14 13:18:50,545 - INFO - Data from 'Sales.csv' committed into 'Sales'.
+2023-12-14 13:18:50,549 - INFO - MySQL connection closed.
+2023-12-14 13:21:10,422 - INFO - Table 'Products' created or already exists.
+2023-12-14 13:21:10,425 - INFO - Data from 'Products.csv' loaded into 'Products'.
+2023-12-14 13:21:10,425 - INFO - Data from 'Products.csv' committed into 'Products'.
+2023-12-14 13:21:10,433 - INFO - Table 'Sales' created or already exists.
+2023-12-14 13:21:10,436 - INFO - Data from 'Sales.csv' loaded into 'Sales'.
+2023-12-14 13:21:10,436 - INFO - Data from 'Sales.csv' committed into 'Sales'.
+2023-12-14 13:21:10,441 - INFO - MySQL connection closed.
+2023-12-14 13:21:52,451 - ERROR - Error loading CSV to MySQL: 1050 (42S01): Table 'products' already exists
+2023-12-14 13:21:52,452 - ERROR - Error loading CSV to MySQL: 1050 (42S01): Table 'sales' already exists
+2023-12-14 13:21:52,458 - INFO - MySQL connection closed.
+2023-12-14 13:22:53,697 - ERROR - Error loading CSV to MySQL: 1050 (42S01): Table 'products' already exists
+2023-12-14 13:22:53,697 - ERROR - Error loading CSV to MySQL: 1050 (42S01): Table 'sales' already exists
+2023-12-14 13:22:53,701 - INFO - MySQL connection closed.
